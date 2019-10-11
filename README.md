@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Request for reivew.
 
 ## Copyright
 
-2014 Git.Training.
+2014 Git.Training. All right reserved.
